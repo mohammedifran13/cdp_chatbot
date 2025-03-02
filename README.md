@@ -51,7 +51,7 @@ This will generate CSV files containing extracted URLs and text data.
 Example usage:
 ```python
 from chatbot import answer_query
-query = "What is the Assisted Analysis tool in mParticle?"
+query = "How do I set up a new source in Segment?"
 response = answer_query(query)
 print(response)
 ```
