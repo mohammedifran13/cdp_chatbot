@@ -3,6 +3,8 @@
 ## Overview
 CDP Chatbot is a data extraction and NLP-powered chatbot designed to scrape, process, and retrieve information from Customer Data Platform (CDP) documentation websites such as Segment, mParticle, and Lytics. The chatbot uses advanced web scraping techniques, parallel processing, and natural language processing (NLP) to provide relevant responses to user queries.
 
+#Repository Link-https://github.com/mohammedifran13/cdp_chatbot
+
 ## Features
 - **Scraping URLs from Sitemaps**: Extracts URLs from sitemaps of CDP documentation websites.
 - **Multithreaded Web Scraping**: Fetches and processes URLs efficiently using concurrent threads.
